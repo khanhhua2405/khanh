@@ -1,0 +1,17 @@
+/// B1. Create "project"
+/// 	npm  init  -y
+/// B2. INSTALL
+/// 	npm install express  body-parser  cookie-parser multer ejs mongodb mongoose  express-session cookie-session qrcode  qrcode-svg  --save
+/// B3. RUN - servernpm 
+/// 	node   index.js
+
+
+****************************************
+- Kết nối DB sử dụng:
+    mongodb mongoose
+
+Khai báo Model -- tương ứng "table" trong DB 
+    mongoose.Schema
+    mongoose.model
+
+    
